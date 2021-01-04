@@ -64,9 +64,9 @@ h1 {
 
 /* Classe Esconder */
 
-/* .hide {
+ .hide {
   display: none !important;
-} */
+}
 
 /* placar */
 
@@ -101,10 +101,10 @@ h1 {
   margin-right: auto;
   left: 0;
   right: 0;
-  top: 150px;
+  top: 230px;
   width: 500px;
+  height: 80px;
   font-size: 50px;
   background-color: #000;
   color: #FFF;
-  display: none;
 }
